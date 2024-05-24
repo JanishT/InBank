@@ -1,0 +1,86 @@
+@media (max-width: 500px) {
+  .all_nav_ {
+    width: 500px;
+  }
+  .main_full {
+    width: 500px;
+    height: 100vh;
+    /* background-color: aquamarine; */
+  }
+  .main_img {
+    width: 250px;
+    height: 250px;
+  }
+  .bal {
+    width: 500px;
+  }
+  .in_bal {
+    width: 500px;
+    height: 50px;
+  }
+  .but_check {
+    height: 30px;
+    font-size: 10px;
+  }
+  .Services_ful {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    /* background-color: aqua; */
+    height: 170vh;
+  }
+  .ser_img {
+    width: 250px;
+    height: 250px;
+  }
+  .right_services {
+    display: flex;
+    justify-content: space-around;
+    height: 110vh;
+    align-items: center;
+  }
+  .withdraw_ful {
+    display: flex;
+    /* flex-direction: column; */
+  }
+  .fl_page_wi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    width: 500px;
+  }
+  .withdr_img {
+    display: none;
+  }
+  .deposit_i{
+    display: none;
+  }
+  .with_form{
+    display: flex;
+    /* background-color: rgb(55, 158, 123); */
+    width: 500px;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 10px;
+  }
+ .withdraw_ful{
+    border: none;
+    width: 500px;
+ }
+ .fl_page{
+    /* background-color: aqua; */
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+ }
+ .withdraw_ful_{
+    /* background-color: aquamarine; */
+    width: 500px;
+    border: none;
+ }
+}

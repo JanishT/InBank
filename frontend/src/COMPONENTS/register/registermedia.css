@@ -1,0 +1,21 @@
+@media(max-Width:500px){
+    .log_img_r{
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+        align-items: center;
+        /* background-color: aqua; */
+        width: 400px;
+        font-size: 12px;
+        border: none;
+    }
+    .bankei{
+        display: none;
+    }
+    .lb_form{
+        font-size: 12px;
+    }
+   
+   
+
+}

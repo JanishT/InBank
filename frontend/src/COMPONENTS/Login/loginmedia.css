@@ -1,0 +1,15 @@
+@media(max-Width:500px){
+    .log_img{
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .log_ful{
+        /* background-color: aquamarine; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+    }
+}

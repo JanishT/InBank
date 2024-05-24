@@ -1,0 +1,57 @@
+.log_ful_r {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+    height: 100vh;
+    width: 100%;
+   
+}
+.log_img_r{
+    display: flex;
+    border: 1px solid black;
+    height: 500px;
+    width: 65%;
+    /* background-color: #fff; */
+}
+.login_form_r {
+  width: 740px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  background-color: blueviolet;
+}
+.log_head_r{
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 300px;
+}
+.lb_form_r{
+    font-size: 20px;
+    font-weight: 600;
+}
+.form-control{
+    width: 320px;
+}
+.form-control:hover{
+    box-shadow: 0 4 9 8;
+}
+.error-message{
+    color: red;
+}
+.btn_login{
+    width: 160px;
+    height: 40px;
+}
+.log_all_inputs{
+    /* background-color: aqua; */
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
